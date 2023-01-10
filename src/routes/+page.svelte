@@ -1,7 +1,3 @@
-<script lang="ts">
-	export const prerender = true;
-</script>
-
 <svelte:head>
 	<title>Lexy's Beauty Studio | Premium Manicure and Pedicure services</title>
 </svelte:head>
