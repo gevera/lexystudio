@@ -9,7 +9,7 @@
 		</div>
 		<a
 			class="btn btn-outline uppercase rounded-none mx-auto outline-white text-white btn-lg"
-			href="https://www.fresha.com/a/lexys-beauty-studio-marlow-uk-68-west-street-m0pu13uo/booking?menu=true&pId=379929&dppub=true&employeeId=1191887"
+			href="https://www.fresha.com/book-now/luxix-esthetics-mawlykid/services?lid=407146&pId=379929"
 			target="_blank"
 			rel="noreferrer">Book Now</a
 		>
